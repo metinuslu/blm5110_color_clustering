@@ -1,0 +1,19 @@
+conda create --name "ml_env" python
+
+conda activate ml_env
+
+pip install jupyterlab
+	jupyter lab
+	
+pip install notebook
+	jupyter notebook
+	
+pip install pandas
+
+pip install opencv-python
+pip install pillow
+
+pip install matplotlib
+pip install seaborn
+
+pip install scikit-learn
