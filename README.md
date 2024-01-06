@@ -8,7 +8,8 @@ For Details: Read the reports/ML2023_Project_2.pdf
     - **`roboflow/`**
     - **`sample/`**
 - **`reports/`**
-    - **`ML2023_Project_2.pdf`**
+    - ML2023_Project_2.pdf
+    - Color Clustering{.docx,.pdf}
 - .gitignore
 - ColorClustering.ipynb
 - ReadMe.md
