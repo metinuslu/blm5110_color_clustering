@@ -1,4 +1,5 @@
-# Color Clustering from Product Images for BLM 5110 Machine Learning
+# K-Means Clustering with (RGB) Color Channels of Product Images for BLM 5110 Machine Learning
+
 
 For Details: Read the reports/ML2023_Project_2.pdf
 
